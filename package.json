@@ -10,7 +10,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
     "gulp": "^5.0.1",
     "gulp-imagemin": "^7.1.0",
